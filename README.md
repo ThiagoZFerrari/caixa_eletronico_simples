@@ -1,4 +1,4 @@
-# 🏦 Simulador de Caixa Eletrônico (ATM)
+# 🏦 Simulador de Caixa Eletrônico
 
 Este projeto marca a conclusão da fase de **Lógica Fundamental e Programação Procedural** em Python. O objetivo principal foi criar um sistema robusto que pudesse lidar com o fluxo contínuo de um menu e tratar entradas inválidas, um requisito essencial para qualquer aplicação profissional.
 
